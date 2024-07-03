@@ -3,7 +3,7 @@ Tercer y ultimo proyecto de la formación, muy interesante y que deja muchas ens
 
 
 # Requisitos previos
-Java 17 o superior, Maven, PostgreSQL, IntelliJ IDEA. Necesitará clonar el repositoriom configurar la base de datos y luego ejecutar la aplicación.
+Java 17 o superior, Maven, PostgreSQL, IntelliJ IDEA. Necesitará clonar el repositorio, configurar la base de datos y luego ejecutar la aplicación.
 
 
 # Menú principal
