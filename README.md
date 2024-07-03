@@ -5,10 +5,15 @@ Tercer y ultimo proyecto de la formación, muy interesante y que deja muchas ens
 La aplicación presenta un menú interactivo con las siguientes opciones:
 
 1 - Buscar libro por título
+
 2 - Listar libros registrados
+
 3 - Listar autores registrados
+
 4 - Listar autores vivos en un determinado año
+
 5 - Listar libros por idioma
+
 0 - Salir
 
   Buscar libro por título: Le pido al usuario que indique el nombre del libro que busca, y la aplicación lo buscará en la API almacenando la información en la base de datos. Si ya existe el libro en la base de datos, se le notificará eso al usuario e imprimirá la información de todas formas.
